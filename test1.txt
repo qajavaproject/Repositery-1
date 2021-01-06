@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is C463-8E73
+
+ Directory of C:\GitProjects
+
+01/06/2021  11:14 AM    <DIR>          .
+01/06/2021  11:14 AM    <DIR>          ..
+01/06/2021  11:14 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  433,096,474,624 bytes free
